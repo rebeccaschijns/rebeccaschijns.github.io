@@ -8,11 +8,11 @@ header:
   image: /assets/images/header_boreal2.jpg
 ---
 
-We acknowledge the Alaska Native nations upon whose traditional lands our campuses reside. In Fairbanks, our Troth Yeddha' Campus is located on the traditional lands of the Dena people of the lower Tanana River.
+LAND ACKNOWLEDGEMENT
 
 ## Contact Info
 
-**Musarella Lab** <br>
+**REBECCA SCHIJNS** <br>
 Institute of Arctic Biology <br>
 University of Alaska Fairbanks <br>
 PO Box 757000 <br>
