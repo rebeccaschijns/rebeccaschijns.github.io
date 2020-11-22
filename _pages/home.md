@@ -41,7 +41,3 @@ feature_row:
 We are broadly interested in the role of microorganisms in the environment and how environmental changes alter the structure and function of microbial communities. We are interested in how microbial communities respond to changes in local resources (e.g., carbon, phosphorus). These responses may include differences in community composition, species interactions, functional traits, and ecosystem processes. Our research uses a mixture of field observations, laboratory experimentation, bioinformatics, and theory. Learn more about our current work [here]( {{ site.url }}/research) and opportunities to join our group [here]( {{ site.url }}/opportunities).
 
 {% include feature_row %}
-
-.article-wrap p {
-  font-size: 16px; /* 16 is the default increase if you want it larger */
-}
