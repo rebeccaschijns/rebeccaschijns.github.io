@@ -36,7 +36,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
     .article-wrap p {
-  font-size: 16px; /* 16 is the default increase if you want it larger */
+  font-size: 12px; /* 16 is the default increase if you want it larger */
 }
 ---
 
