@@ -34,7 +34,10 @@ feature_row:
     excerpt: "We are looking for motivated individuals to join our collaborative team. Opportunities for undergraduate and graduate students."
     url: "/opportunities/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"  
+    .article-wrap p {
+  font-size: 16px; /* 16 is the default increase if you want it larger */
+}
 ---
 
 We are broadly interested in the role of microorganisms in the environment and how environmental changes alter the structure and function of microbial communities. We are interested in how microbial communities respond to changes in local resources (e.g., carbon, phosphorus). These responses may include differences in community composition, species interactions, functional traits, and ecosystem processes. Our research uses a mixture of field observations, laboratory experimentation, bioinformatics, and theory. Learn more about our current work [here]( {{ site.url }}/research) and opportunities to join our group [here]( {{ site.url }}/opportunities).
