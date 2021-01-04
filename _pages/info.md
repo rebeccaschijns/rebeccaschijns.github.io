@@ -13,7 +13,7 @@ LAND ACKNOWLEDGEMENT
 ## Contact Info
 
 **REBECCA SCHIJNS** <br>
-Institute of Arctic Biology <br>
+CHUMPSTATUS <br>
 University of Alaska Fairbanks <br>
 PO Box 757000 <br>
 Fairbanks, AK 99775 <br>
